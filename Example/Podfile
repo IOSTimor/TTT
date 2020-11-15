@@ -1,0 +1,6 @@
+use_frameworks!
+target 'XCRR_Tests' do
+  pod 'XCRR', :path => '../'
+  
+  
+end
